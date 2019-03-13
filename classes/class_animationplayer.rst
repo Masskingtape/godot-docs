@@ -97,7 +97,7 @@ Signals
 
 - **animation_changed** **(** :ref:`String<class_String>` old_name, :ref:`String<class_String>` new_name **)**
 
-If the currently being played animation changes, this signal will notify of such change.
+If the currently playing animation changes, this signal will notify of such change.
 
 .. _class_AnimationPlayer_signal_animation_finished:
 
